@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Catatan-DityaST</string>
+    <string name="screen_home_button_add_note">Tambah Catatan</string>
+    <string name="screen_home_swipe_delete_note">Hapus Catatan</string>
+    <string name="screen_home_popup_button_save">Simpan</string>
+    <string name="screen_home_popup_button_dismiss">Dismiss</string>
+</resources>
